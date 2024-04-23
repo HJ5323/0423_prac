@@ -21,5 +21,14 @@
     <ClCompile Include="삼항연산자.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="example_for.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="while_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="for_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

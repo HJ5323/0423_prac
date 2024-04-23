@@ -29,11 +29,14 @@ int main()
 	case '*':
 		std::cout << a * b;
 		break;
+ 
+ 	//case '/': // integer에서 /은 몫만 나옴, %는 나머지
+		//std::cout << a / b;
+		//break;
 
 	default:
 		std::cout << "다시 입력해 주세요.";
 
 	}
-
 
 }
