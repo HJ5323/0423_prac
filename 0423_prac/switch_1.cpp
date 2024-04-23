@@ -16,7 +16,7 @@ int main()
 	std::cin >> c;
 
 
-	switch (c)
+	switch (c) // switch에 들어갈 수 있는 타입은 문자형과 열거형만 가능
 	{
 	case '+':
 		std::cout << a + b;
