@@ -24,13 +24,19 @@
     <ClCompile Include="example_for.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="while_1.cpp">
+    <ClCompile Include="example_while.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="for_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="prac_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="prac_3_while.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

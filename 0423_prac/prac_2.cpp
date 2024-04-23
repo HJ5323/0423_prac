@@ -4,7 +4,7 @@ int main()
 {
 	int input, output = 0;
 
-	std::cout << "1부터 n까지의 합 구하기" << std::endl;
+	std::cout << "1부터 n까지의 합 구하기\n" << std::endl;
 	std::cout << "숫자(양의 정수)를 입력하세요. : " ;
 	std::cin >> input;
 
